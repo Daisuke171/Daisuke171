@@ -1,5 +1,5 @@
 ## Hello there, I'm DAI ദ്ദി( •⩊• )
-I'm currently a Programming student, my main tools are C++ and JavaScript. I also speak Japanese, English, and Spanish 🐉
+I'm currently an University Programming student, my main tools are C++ and JavaScript. I also speak Japanese, English, and Spanish 🐉
 
 ## 🦔 Languages and Tools 🔰:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
