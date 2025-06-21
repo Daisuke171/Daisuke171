@@ -32,12 +32,14 @@ I'm currently an University Programming student, my main tools are C++ and JavaS
 
 <hr>
 <div id="header" align="center">
-  <img src="https://media.tenor.com/ju1Ks2wS7AYAAAAi/fate-stay-night-musashi.gif" width="200"/>
-  <img src="https://media.tenor.com/J3NcF7GsJ5gAAAAi/fate-morgan-le-faey.gif" width="200"/>
-  <img src="https://media.tenor.com/U8jkmpt53PIAAAAi/fate-stay-night.gif" width="200"/>
-  <img src="https://media.tenor.com/_Hk0weY_uToAAAAi/fate-stay-night-jalter.gif" width="200"/>
-  <img src="https://media.tenor.com/V6hAdEt6dAwAAAAi/fate-stay-night-jalter.gif" width="200"/>
-  <img src="https://media.stickerswiki.app/line_fate_grand_order_sd/948449.512.webp" width="200"/>
+  <img src="https://media.tenor.com/Lxoa4MBd-VcAAAAj/fate.gif" width="200"/>
+  <img src="https://media.tenor.com/Rn6WFP_ksAgAAAAj/fate.gif" width="200"/>
+  <img src="https://media.tenor.com/dNpK2iVDVF8AAAAj/fate.gif" width="200"/>
+  <img src="https://media.tenor.com/TTZzz1k6tNQAAAAj/fate.gif" width="200"/>
+  <img src="https://media.tenor.com/DKKaIVrzB0cAAAAj/fate.gif" width="200"/>
+  <img src="https://media.tenor.com/pDwGtKnttIEAAAAj/fate.gif" width="200"/>
+  <img src="https://media.tenor.com/RvjJ9r4sRvQAAAAj/fate.gif" width="200"/>
+  <img src="https://media.tenor.com/vgjEWDpi5M8AAAAj/fate.gif" width="200"/>
 </div>
 
 <!--
